@@ -17,3 +17,13 @@ Where:
 Run the script in your terminal using:
 ```bash
 ./simple-interest.sh
+
+
+4. Scroll down, click **Commit changes...**, and save your updates.
+
+---
+
+### Your New Submission URL
+Once you have renamed the repository and updated the README file, your new submission URL for Task 1 will be:
+
+`[https://github.com/MEROO1010/github-final-project/blob/main/README.md](https://github.com/MEROO1010/github-final-project/blob/main/README.md)`
